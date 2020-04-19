@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="222f5d2b-0422-43eb-9d77-62d292c0634c" name="Default Changelist" comment="" />
+    <list default="true" id="222f5d2b-0422-43eb-9d77-62d292c0634c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/jdhamlik.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/shadow/Main.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/shadow/adapters/Adapter.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/shadow/adapters/Device.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/shadow/adapters/Identifier.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/shadow/adapters/features/DimmableFeature.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/shadow/adapters/features/Feature.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/shadow/adapters/vantage/VantageAdapter.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/shadow/manager/DeviceManager.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,14 +34,24 @@
       <entry key="RecognizedNullableAnnotations" value="true" />
     </appliedSettings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1am6htHClmPQ3dNaPfUkMiBNBpk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
@@ -84,5 +106,16 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
